@@ -1,6 +1,6 @@
 # cwc
 
-[日本語版はこちら](./README.ja.md)
+[日本語版はこちら](./りぃどみぃ.md)
 
 **A Wayland compositor where all device interactions are controlled through a unified CLI.**
 
